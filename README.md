@@ -4,8 +4,8 @@ is based on standard reference ontologies such as Schema.org, FHIR R4 resource m
 
 # Related projects
 
-The terms and definitions used in this vocab were in part inspired by the recent publication from the EU on the eHealth Networks guidelines on 
-COVID-19 citizen recovery interoperable certificate - minimum dataset. This specification is designed to facilitate mapping of jurisdictional requirements, especially as it 
+The terms and definitions used in this vocab were in part inspired by the recent publication from the [EU on the eHealth Networks guidelines on 
+COVID-19 citizen recovery interoperable certificate - minimum dataset](https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf). This specification is designed to facilitate mapping of jurisdictional requirements, especially as it 
 relates to different FHIR Profiles especially WHO IPS (International Patient Summary).
 
 # Generating example Verifiable Credentials
