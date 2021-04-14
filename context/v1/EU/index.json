@@ -22,7 +22,7 @@
                 "description": "http://schema.org/description",
                 "identifier": "http://schema.org/identifier",
                 "name": "http://schema.org/name",
-                "issuer": "",
+                "issuer": "http://schema.org/legalName",
                 "validFrom": "http://www.w3.org/2001/XMLSchema#dateTime",
                 "validUntil": "http://www.w3.org/2001/XMLSchema#dateTime"
             }
