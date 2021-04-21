@@ -1,4 +1,4 @@
-# Recovery (COVID-19 focused) certificate minimal data set vocabulary
+# (Proposed/DRAFT) Recovery (COVID-19 focused) certificate minimal data set vocabulary
 This specification describes the linked data vocabulary for asserting Verifiable Credentials related to citizen covid-19 recovery (interoperable) certificate. The specification
 is based on standard reference ontologies such as Schema.org, FHIR R4 resource model etc.
 
